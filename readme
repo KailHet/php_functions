@@ -1,0 +1,2 @@
+console.log - standart js function that not includes into php
+normalizeJson - normal view of json for translate it into js or console
